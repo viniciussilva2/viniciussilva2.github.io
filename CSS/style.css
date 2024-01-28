@@ -109,6 +109,16 @@ main #banner .banner-content .banner-content-btn-wpp {
   border: none;
 }
 
+main #banner .banner-content .banner-content-btn-tlg {
+  background-color: #063894;
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+  border-radius: 2px;
+  padding: 8px 24px;
+  border: none;
+}
+
 main #banner .banner-image {
   border-radius: 50%;
   width: 100%;
